@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "description": "Sample Cypress project with TypeScript",
   "scripts": {
-    "cypress:open": "cypress open --config-file cypress/config/cypress.config.ts",
-    "cypress:run": "cypress run --config-file cypress/config/cypress.config.ts",
-    "cypress:run:headed": "cypress run --headed --config-file cypress/config/cypress.config.ts",
-    "test": "cypress run --config-file cypress/config/cypress.config.ts"
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run",
+    "cypress:run:headed": "cypress run --headed",
+    "test": "cypress run"
   },
   "keywords": [
     "cypress",

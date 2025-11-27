@@ -14,7 +14,7 @@
     ],
     "run_settings": {
         "home_directory": "/Users/qadir/Documents/cypress-ts",
-        "cypress_config_file": "./cypress/config/cypress.config.ts",
+        "cypress_config_file": "./cypress.config.ts",
         "project_name": "Cypress",
         "build_name": "build-name",
         "exclude": [
