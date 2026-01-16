@@ -17,7 +17,7 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "browserstack-cypress-cli": "^1.35.0",
+    "browserstack-cypress-cli": "^1.36.1",
     "cypress": "^14.5.2",
     "typescript": "^5.8.3"
   }
