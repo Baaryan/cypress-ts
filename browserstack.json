@@ -26,9 +26,11 @@
         "parallels": "10",
         "cypress_version": "14.latest",
         "npm_dependencies": {
+            "browserstack-cypress-cli": "^1.36.1",
+            "cypress": "^14.5.2",
             "typescript": "^5.8.3"
         },
-        "auto_import_dev_dependencies": true,
+        "auto_import_dev_dependencies": false,
         "exclude_dependencies": [],
         "package_config_options": {},
         "headless": true
