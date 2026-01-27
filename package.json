@@ -6,7 +6,8 @@
     "cypress:open": "cypress open --config-file cypress/config/cypress.config.ts",
     "cypress:run": "cypress run --config-file cypress/config/cypress.config.ts",
     "cypress:run:headed": "cypress run --headed --config-file cypress/config/cypress.config.ts",
-    "test": "cypress run --config-file cypress/config/cypress.config.ts"
+    "test": "cypress run --config-file cypress/config/cypress.config.ts",
+    "browserstack:run": "browserstack-cypress-cli run"
   },
   "keywords": [
     "cypress",
